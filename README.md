@@ -13,7 +13,6 @@
 ## Requirements
   * Magento Community 2.2.0-2.4.x (CE, EE, ECE, B2B)
   * [Magefan Community Extension](https://github.com/magefan/module-community) >= v2.1.13. Please install this extension first if you use installation via FTP.
-  * **Note** that extension is free only for the Magento Community (Open Source) Edition. For Magento EE, ECE, B2B you need to purchase the license at magefan.com.
         
 ## Benefits
 * Improved store credibility and trust
@@ -22,7 +21,7 @@
 
 ## Features
 
-* **Improve Website Credibility and Build Trust**
+### Improve Website Credibility and Build Trust
 
 With the fierce competition and plenty of similar stores, it becomes harder to make a purchasing decision. But customers are not the only ones struggling. You have to go to a great extent to stand out and attract customers too. 
 
@@ -33,7 +32,7 @@ Magento 2 Google Customer Reviews Extension will help you with that. It allows y
 </p>
 
 
-* **Send Review Reminders Automatically**
+### Send Review Reminders Automatically
 
 If you’re struggling to collect reviews to boost customers loyalty, Google Customer Reviews Extension for Magento will come in handy. 
 
@@ -43,15 +42,13 @@ You can use it to enable the survey opt-in on the checkout success page. Once cu
   <img width="853" height="425" src="https://cm.magefan.com/catalog/google-customer-reviews-survey-opt-in-magento_1.png">
 </p>
 
-
-* **Choose Google Reviews Position and Language**
+### Choose Google Reviews Position and Language
 
 The position and language of the Google Customer Reviews badge and survey opt-in matters, especially if you sell in different countries. That’s why our solution allows you to choose the position for the rating badge and survey opt-in.
 
 You can also specify the language they should be displayed in, or leave this job to the extension. It will detect users’ browser language automatically and display the corresponding language. 
 
-
-* **Use Order Delivery Time for Survey Opt-In**
+### Use Order Delivery Time for Survey Opt-In
 
 The best time to ask customers to leave feedback is just after they’ve completed the order. However, when is the best time to send the review surveys? It depends. That’s why you can define that time yourself. 
 
@@ -61,7 +58,7 @@ Use Magento 2 Google Customer Reviews Extension to specify when Google should se
   <img width="853" height="425" src="https://cm.magefan.com/catalog/google-review-survey-delivery-time_1_.png">
 </p>
 
-* **Target Certain Customer Groups**
+### Target Certain Customer Groups
 
 Each adjustment, customization, discount, email and other element of your store have one thing in common 一 they are targeted at specific users. Google Reviews are too. 
 
@@ -74,7 +71,7 @@ You can use this Google Reviews Extension for Magento 2 to define what customer 
 ## Support
 If you have any issues, please [contact us](mailto:support@magefan.com)
 then if you still need help, open a bug report in GitHub's
-[issue tracker](https://github.com/magefan/module-google-tag-manager/issues).
+[issue tracker](https://github.com/magefan/magento-2-google-customer-reviews/issues).
 
 ## Need More Features?
 Please contact us to get a quote
